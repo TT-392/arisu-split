@@ -1,0 +1,6 @@
+[submodule "Fate_Parts"]
+	path = Fate_Parts
+	url = https://github.com/FateNozomi/Fate_Parts.git
+[submodule "cherry-mx-switch"]
+	path = cherry-mx-switch
+	url = https://github.com/ConstantinoSchillebeeckx/cherry-mx-switch.git
