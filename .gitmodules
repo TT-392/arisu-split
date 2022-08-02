@@ -4,3 +4,6 @@
 [submodule "cherry-mx-switch"]
 	path = cherry-mx-switch
 	url = https://github.com/ConstantinoSchillebeeckx/cherry-mx-switch.git
+[submodule "cherry-mx-keycaps"]
+	path = cherry-mx-keycaps
+	url = https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps.git
