@@ -3723,205 +3723,205 @@
       (reference "C9") (unit 1) (value "0.1uF") (footprint "Capacitors_SMD:C_0805_HandSoldering")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/047bdca0-1fa4-464f-82e7-db742d64d139"
-      (reference "D1") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D1") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/b693e41e-de2c-498b-b8c1-55bbd48d19d1"
-      (reference "D2") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D2") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/e8987ba5-1712-4fb4-af01-7130c7617f96"
-      (reference "D3") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D3") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c51fbf3"
-      (reference "D4") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D4") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c520209"
-      (reference "D5") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D5") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c5209fe"
-      (reference "D6") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D6") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c521072"
-      (reference "D7") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D7") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/a7dadc4f-7eb4-438a-872f-24b45a947cf6"
-      (reference "D8") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D8") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c52049a"
-      (reference "D9") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D9") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c5205d6"
-      (reference "D10") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D10") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c52372a"
-      (reference "D11") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D11") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c523774"
-      (reference "D12") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D12") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c5210b4"
-      (reference "D13") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D13") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63dafa"
-      (reference "D14") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D14") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63db08"
-      (reference "D15") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D15") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63db29"
-      (reference "D16") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D16") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63db30"
-      (reference "D17") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D17") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63db37"
-      (reference "D18") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D18") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63e355"
-      (reference "D19") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D19") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63e363"
-      (reference "D20") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D20") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63e384"
-      (reference "D21") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D21") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63e38b"
-      (reference "D22") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D22") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63f110"
-      (reference "D23") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D23") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63f11e"
-      (reference "D24") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D24") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63f13f"
-      (reference "D25") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D25") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63f146"
-      (reference "D26") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D26") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c63f14d"
-      (reference "D27") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D27") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c6405f2"
-      (reference "D28") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D28") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c640600"
-      (reference "D29") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D29") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c640621"
-      (reference "D30") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D30") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c640628"
-      (reference "D31") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D31") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c64062f"
-      (reference "D32") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D32") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c642476"
-      (reference "D33") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D33") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c642484"
-      (reference "D34") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D34") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c6424a5"
-      (reference "D35") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D35") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c6424ac"
-      (reference "D36") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D36") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c644ba8"
-      (reference "D37") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D37") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c644b6b"
-      (reference "D38") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D38") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c644b79"
-      (reference "D39") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D39") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c644b9a"
-      (reference "D40") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D40") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c644ba1"
-      (reference "D41") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D41") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c647dd8"
-      (reference "D42") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D42") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c647de6"
-      (reference "D43") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D43") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c647e07"
-      (reference "D44") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D44") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c647e0e"
-      (reference "D45") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D45") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c64bd71"
-      (reference "D46") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D46") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c64bd34"
-      (reference "D47") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D47") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c64bd42"
-      (reference "D48") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D48") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c64bd63"
-      (reference "D49") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D49") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c64bd6a"
-      (reference "D50") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D50") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c650aa6"
-      (reference "D51") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D51") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c650ab4"
-      (reference "D52") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D52") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c650ad5"
-      (reference "D53") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D53") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c650adc"
-      (reference "D54") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D54") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/fdc2939c-605d-4bbe-a02e-90034ffdc705"
-      (reference "D55") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D55") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c6567cd"
-      (reference "D56") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D56") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c6567db"
-      (reference "D57") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D57") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c6567fc"
-      (reference "D58") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D58") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/c6592719-d6b4-41b6-9ad3-b50d43351e4f"
-      (reference "D59") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D59") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/004fad8f-757f-47c2-8c55-4f8370d88a1d"
-      (reference "D60") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D60") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c65d60c"
-      (reference "D61") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D61") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c65d61a"
-      (reference "D62") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D62") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/bac64a5f-ae22-48ba-8a0a-7c99c4bede98"
-      (reference "D63") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D63") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c6656fc"
-      (reference "D64") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D64") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005c65d63b"
-      (reference "D65") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D65") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/7c3f4605-e989-4e9b-bbd9-6eb06cb87781"
-      (reference "D66") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D66") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/40428404-3a60-439f-8f98-0c7b4eb50bd5"
-      (reference "D67") (unit 1) (value "D") (footprint "Diodes_SMD:D_SOD-123")
+      (reference "D67") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c583efc"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "Mounting_Holes:MountingHole_2.2mm_M2_Pad")
