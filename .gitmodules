@@ -9,3 +9,5 @@
 	url = https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps.git
 [submodule "cherry-mx-keycaps/"]
 	url = git@github.com:TT-392/cherry-mx-keycaps.git
+[submodule "cherry-mx-switch/"]
+	url = git@github.com:TT-392/cherry-mx-keycaps.git
