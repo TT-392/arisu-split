@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "arisu-rescue")(type "Legacy")(uri "${KIPRJMOD}/arisu-rescue.lib")(options "")(descr ""))
+  (lib (name "arisu-split")(type "KiCad")(uri "${KIPRJMOD}/arisu-split.kicad_sym")(options "")(descr ""))
 )
