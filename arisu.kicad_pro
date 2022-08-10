@@ -379,9 +379,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Power",
-        "nets": [
-          "GND"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.375,
@@ -468,6 +466,10 @@
     [
       "8c4379f0-6f5f-4ee8-9db5-ef285281fc90",
       "Jack"
+    ],
+    [
+      "1a9fde12-35fe-4ad6-a801-0703b4f41fc5",
+      "USB C port"
     ]
   ],
   "text_variables": {}
