@@ -22,4 +22,9 @@
   (pad "2" smd rect (at 8.3 3.6) (size 2.8 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7699e80f-181c-452f-ad02-82542258f81d))
   (pad "3" smd rect (at 0.8 -3.7) (size 2.2 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7653202c-586b-40d2-9bec-7e87de3bd27c))
   (pad "4" smd rect (at -1.1 3.6) (size 2.2 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ae3b99ed-cfa7-45a2-887f-a4c4d626dd79))
+  (model "${KIPRJMOD}/cube.stp"
+    (offset (xyz 2.5 -0.35 0))
+    (scale (xyz 17 5.1 6.7))
+    (rotate (xyz -90 0 0))
+  )
 )
