@@ -39,7 +39,7 @@
     (uuid fea31c7c-ffb3-45a4-aab1-7bd3c72210be)
   )
 
-  (text "TODO:\nkeep in mind: plate\nkeycaps height\nusb C\nLEDS\nholes probably desirable"
+  (text "TODO:\nkeep in mind: plate\nkeycaps height\nusb C\nLEDS\nholes probably desirable\nSWD header"
     (at 85.09 26.67 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 35b6a529-8998-418b-bd81-b02926df63e0)
