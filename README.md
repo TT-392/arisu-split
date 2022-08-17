@@ -1,3 +1,6 @@
+# Warning
+For the actual arisu keyboard PCB go to https://github.com/FateNozomi/arisu-pcb, this one is just an unfinished fork.
+
 # Arisu Keyboard PCB
 アリス PCB designed using KiCad. The layout is inspired by Lyn's EM7 and TGR Alice with some modification of my own.
 
