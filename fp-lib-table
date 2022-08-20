@@ -1,6 +1,6 @@
 (fp_lib_table
-  (lib (name "arisu")(type "KiCad")(uri "${KIPRJMOD}/arisu.pretty")(options "")(descr ""))
-  (lib (name "MX_Switch")(type "KiCad")(uri "${KIPRJMOD}/Fate_Parts/MX_Switch.pretty")(options "")(descr ""))
-  (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal.pretty")(options "")(descr ""))
-  (lib (name "arisu-split")(type "KiCad")(uri "${KIPRJMOD}/arisu-split.pretty")(options "")(descr ""))
+  (lib (name "arisu")(type "KiCad")(uri "${KIPRJMOD}/footprints/arisu.pretty")(options "")(descr ""))
+  (lib (name "MX_Switch")(type "KiCad")(uri "${KIPRJMOD}/footprints/Fate_Parts/MX_Switch.pretty")(options "")(descr ""))
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/footprints/RP2040_minimal.pretty")(options "")(descr ""))
+  (lib (name "arisu-split")(type "KiCad")(uri "${KIPRJMOD}/footprints/arisu-split.pretty")(options "")(descr ""))
 )
