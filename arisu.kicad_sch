@@ -39,8 +39,8 @@
     (uuid fea31c7c-ffb3-45a4-aab1-7bd3c72210be)
   )
 
-  (text "TODO:\nkeep in mind: plate\nkeycaps height\nusb C\nLEDS\nholes probably desirable\nSWD header"
-    (at 85.09 26.67 0)
+  (text "TODO:\nkeep in mind: plate\nkeycaps height\nusb C\nLEDS\nholes probably desirable\nSWD header\nFix RP2040 footprint\n"
+    (at 86.36 30.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 35b6a529-8998-418b-bd81-b02926df63e0)
   )
@@ -663,13 +663,13 @@
       (reference "D67") (unit 1) (value "~") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/8c4379f0-6f5f-4ee8-9db5-ef285281fc90/9d758cb0-626c-430f-812f-9b31179a836b"
-      (reference "J1") (unit 1) (value "35RASMT5CHNTRX") (footprint "arisu-split:35RASMT5CHNTRX")
+      (reference "J1") (unit 1) (value "SJ-43514-SMT-TR") (footprint "arisu-split:SJ-43514-SMT-TR")
     )
     (path "/e3cb8eae-e69f-4e9c-8f54-e476a90f2f61/c4645a3c-368a-4151-97c2-8de92003f6f9"
       (reference "J2") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/8c4379f0-6f5f-4ee8-9db5-ef285281fc90/f3affb04-9997-4ea7-a23c-90048e0c4fad"
-      (reference "J3") (unit 1) (value "35RASMT5CHNTRX") (footprint "arisu-split:35RASMT5CHNTRX")
+      (reference "J3") (unit 1) (value "SJ-43514-SMT-TR") (footprint "arisu-split:SJ-43514-SMT-TR")
     )
     (path "/e3cb8eae-e69f-4e9c-8f54-e476a90f2f61/55f1188c-73db-482b-a907-ad87045211a0"
       (reference "J4") (unit 1) (value "10103594-0001LF") (footprint "arisu-split:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal")

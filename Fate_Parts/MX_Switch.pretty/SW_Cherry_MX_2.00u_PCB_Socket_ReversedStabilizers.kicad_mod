@@ -60,4 +60,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
+  (model "${KIPRJMOD}/blend/kailh.x3d"
+    (offset (xyz -0.7 4.8 -1.8))
+    (scale (xyz 4 4 4))
+    (rotate (xyz 90 0 180))
+  )
 )
