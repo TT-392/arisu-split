@@ -42,9 +42,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "${KIPRJMOD}/3d models/cherry-mx-keycaps/STEP/1x1.25 R2.stp"
+  (model "${KIPRJMOD}/3d models/cherry-mx-keycaps/X3D/1x1.25 R2.x3d"
     (offset (xyz 12 -9.5 8))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 90 180 180))
   )
 )

@@ -447,7 +447,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "arisu.step",
-      "vrml": "arisu.wrl"
+      "vrml": "../arisu.wrl"
     },
     "page_layout_descr_file": ""
   },
