@@ -350,6 +350,9 @@
     (path "/769dae23-5223-4917-97f1-926f10044dd4/d7bc1c3f-1349-4f99-8b58-00b7e6ec150a"
       (reference "#PWR0151") (unit 1) (value "GND_L") (footprint "")
     )
+    (path "/e3cb8eae-e69f-4e9c-8f54-e476a90f2f61/75eb55db-973b-446c-842f-e5b486c7b8c6"
+      (reference "#PWR0152") (unit 1) (value "GND_R") (footprint "")
+    )
     (path "/769dae23-5223-4917-97f1-926f10044dd4/4c760d74-5ac8-4335-8e65-a054b504e401"
       (reference "#PWR0153") (unit 1) (value "GND_L") (footprint "")
     )
@@ -361,9 +364,6 @@
     )
     (path "/e3cb8eae-e69f-4e9c-8f54-e476a90f2f61/a5a6a08d-fd36-421a-981e-23f6d9c10c8f"
       (reference "#PWR0156") (unit 1) (value "GND_R") (footprint "")
-    )
-    (path "/e3cb8eae-e69f-4e9c-8f54-e476a90f2f61/75eb55db-973b-446c-842f-e5b486c7b8c6"
-      (reference "#PWR?") (unit 1) (value "GND_R") (footprint "")
     )
     (path "/e3cb8eae-e69f-4e9c-8f54-e476a90f2f61/a605ba69-37a6-42fb-a377-b105a083e060"
       (reference "C1") (unit 1) (value "30p") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -702,7 +702,7 @@
       (reference "H8") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
     (path "/e3cb8eae-e69f-4e9c-8f54-e476a90f2f61/d4d93216-7155-441e-8097-fd38cf67d2c2"
-      (reference "H?") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
+      (reference "H103") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
     (path "/8c4379f0-6f5f-4ee8-9db5-ef285281fc90/9d758cb0-626c-430f-812f-9b31179a836b"
       (reference "J1") (unit 1) (value "SJ-43514-SMT-TR") (footprint "arisu-split:SJ-43514-SMT-TR")
