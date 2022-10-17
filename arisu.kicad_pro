@@ -60,7 +60,11 @@
           "width": 0.2
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "diff_pair_gap_out_of_range|40314500|65028808|f05c209f-ab21-4b90-b128-6a3cb2892775|095c36d2-91ee-4320-a841-16a6388744f7",
+        "silk_over_copper|50099720|15000001|80ab86c9-dc7b-4be1-9244-ab3176b67f4f|d0a9d001-9406-4a44-a228-01a0d95578ba",
+        "silk_over_copper|59259720|15000002|80ab86c9-dc7b-4be1-9244-ab3176b67f4f|c41a6105-5743-4593-a17f-8ede9f9c9bf6"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -112,15 +116,15 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.127,
-        "min_copper_edge_clearance": 0.075,
-        "min_hole_clearance": 0.32999999999999996,
+        "min_copper_edge_clearance": 0.19999999999999998,
+        "min_hole_clearance": 0.254,
         "min_hole_to_hole": 0.5,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.19999999999999998,
-        "min_track_width": 0.127,
-        "min_via_annular_width": 0.15,
+        "min_track_width": 0.19999999999999998,
+        "min_via_annular_width": 0.09999999999999999,
         "min_via_diameter": 0.39999999999999997,
         "use_height_for_length_calcs": true
       },
