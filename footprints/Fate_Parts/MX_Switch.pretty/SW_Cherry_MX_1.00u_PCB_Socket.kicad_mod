@@ -45,6 +45,14 @@
   (pad "" np_thru_hole circle (at -5.08 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp ea3d13f4-fa13-45d8-80e3-e3bb5e23a0c0))
   (pad "" np_thru_hole circle (at 2.54 -5.08) (size 3 3) (drill 3) (layers *.Cu *.Mask) (tstamp f94b7734-635d-4da8-a350-6f502b985235))
   (pad "1" smd rect (at 6.09 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 14f17dbf-23d0-43dd-9ea8-9520eea719ab))
+  (pad "1" thru_hole circle (at 6.75 -4.5) (size 0.8 0.8) (drill 0.4) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp 882dfbb6-2cbc-4ecd-a60a-ccfa41b02082))
+  (pad "1" thru_hole circle (at 6.75 -5.75) (size 0.8 0.8) (drill 0.4) (layers *.Cu *.Mask) (tstamp 8e31a100-e8f5-4ce3-bccb-065f525477d6))
+  (pad "1" thru_hole circle (at 5.5 -4.5) (size 0.8 0.8) (drill 0.4) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp a87ff550-80a1-4494-a4ab-4b56333538ca))
+  (pad "1" thru_hole circle (at 5.5 -5.75) (size 0.8 0.8) (drill 0.4) (layers *.Mask "F.Cu" "In1.Cu" "B.Cu") (tstamp adb71b42-29c1-423f-9ca3-c50005b15faf))
+  (pad "2" thru_hole circle (at -6.75 -2) (size 0.8 0.8) (drill 0.4) (layers *.Cu *.Mask) (tstamp 0337adc7-4605-492d-8672-2c5aaf7704d8))
+  (pad "2" thru_hole circle (at -8 -3.25) (size 0.8 0.8) (drill 0.4) (layers *.Cu *.Mask) (tstamp 2318f490-3460-431f-a2b2-8944620d364c))
+  (pad "2" thru_hole circle (at -8 -2) (size 0.8 0.8) (drill 0.4) (layers *.Cu *.Mask) (tstamp 9098d57c-232f-4a7f-aace-6bae2a9cb9bc))
+  (pad "2" thru_hole circle (at -6.75 -3.25) (size 0.8 0.8) (drill 0.4) (layers *.Cu *.Mask) (tstamp cdd2a0d4-011c-4cc5-a05e-65f04c629ef9))
   (pad "2" smd rect (at -7.36 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp ef4ad1af-5070-484c-9da3-9e9b3e1cbbb7))
   (model "${KIPRJMOD}/3d models/cherry-mx-switch/switch.step"
     (offset (xyz -0.025 -1.025 4.85))
@@ -52,7 +60,7 @@
     (rotate (xyz -90 0 0))
   )
   (model "${KIPRJMOD}/3d models/cherry-mx-keycaps/X3D/1x1 R2.x3d"
-    (offset (xyz -0.025 0.025 8))
+    (offset (xyz -0.025 0.025 11.15))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 90 180 180))
   )

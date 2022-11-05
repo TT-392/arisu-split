@@ -2737,7 +2737,7 @@
     (uuid c4645a3c-368a-4151-97c2-8de92003f6f9)
     (property "Reference" "J2" (id 0) (at 20.32 97.79 0))
     (property "Value" "Conn_01x02" (id 1) (at 20.32 107.95 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 21.59 101.6 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" (id 2) (at 21.59 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 21.59 101.6 0)
