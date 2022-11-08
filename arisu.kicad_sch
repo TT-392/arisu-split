@@ -336,7 +336,7 @@
     (uuid fea31c7c-ffb3-45a4-aab1-7bd3c72210be)
   )
 
-  (text "TODO:\nFix RP2040 footprint / zones\nscrew holes\n" (at 15.24 30.48 0)
+  (text "TODO:\nscrew holes\n" (at 15.24 30.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 35b6a529-8998-418b-bd81-b02926df63e0)
   )
