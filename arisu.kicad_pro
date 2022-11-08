@@ -61,9 +61,7 @@
         }
       ],
       "drc_exclusions": [
-        "diff_pair_gap_out_of_range|40314500|65028808|f05c209f-ab21-4b90-b128-6a3cb2892775|095c36d2-91ee-4320-a841-16a6388744f7",
-        "silk_over_copper|50099720|15000001|80ab86c9-dc7b-4be1-9244-ab3176b67f4f|d0a9d001-9406-4a44-a228-01a0d95578ba",
-        "silk_over_copper|59259720|15000002|80ab86c9-dc7b-4be1-9244-ab3176b67f4f|c41a6105-5743-4593-a17f-8ede9f9c9bf6"
+        "diff_pair_gap_out_of_range|40314500|65028808|f05c209f-ab21-4b90-b128-6a3cb2892775|095c36d2-91ee-4320-a841-16a6388744f7"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -346,7 +344,7 @@
       "extra_units": "error",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
-      "label_dangling": "error",
+      "label_dangling": "ignore",
       "lib_symbol_issues": "warning",
       "multiple_net_names": "warning",
       "net_not_bus_member": "warning",
