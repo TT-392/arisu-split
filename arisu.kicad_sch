@@ -1122,10 +1122,10 @@
       (reference "D67") (unit 1) (value "~") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/42d6c6d1-7a10-4125-9792-80d4b9739e80/7a606ad1-402d-4c6e-91dc-57e623bea8f8"
-      (reference "D68") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
+      (reference "D68") (unit 1) (value "LED") (footprint "arisu-split:LED_0805_2012Metric")
     )
     (path "/42d6c6d1-7a10-4125-9792-80d4b9739e80/7e9aaa50-4aa7-40bd-a49a-d7fec7dfa7ec"
-      (reference "D69") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
+      (reference "D69") (unit 1) (value "LED") (footprint "arisu-split:LED_0805_2012Metric")
     )
     (path "/769dae23-5223-4917-97f1-926f10044dd4/ca7ebfd3-e74c-4e0a-8254-23d308416328"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "arisu-split:aluminium profile nut")
