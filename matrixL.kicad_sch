@@ -1160,7 +1160,7 @@
     (uuid 00000000-0000-0000-0000-00005c520f5d)
     (property "Reference" "SW7" (id 0) (at 53.34 117.221 0))
     (property "Value" "~" (id 1) (at 53.34 119.5324 0))
-    (property "Footprint" "MX_Switch:SW_Cherry_MX_2.00u_PCB_Socket_ReversedStabilizers" (id 2) (at 53.34 119.38 0)
+    (property "Footprint" "MX_Switch:SW_Cherry_MX_2.00u_PCB_Socket" (id 2) (at 53.34 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 53.34 119.38 0)

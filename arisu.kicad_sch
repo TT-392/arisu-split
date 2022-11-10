@@ -336,7 +336,7 @@
     (uuid fea31c7c-ffb3-45a4-aab1-7bd3c72210be)
   )
 
-  (text "TODO:\nscrew holes\n" (at 15.24 30.48 0)
+  (text "TODO:\n" (at 15.24 30.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 35b6a529-8998-418b-bd81-b02926df63e0)
   )
@@ -1269,7 +1269,7 @@
       (reference "SW6") (unit 1) (value "~") (footprint "MX_Switch:SW_Cherry_MX_1.75u_PCB_Socket")
     )
     (path "/769dae23-5223-4917-97f1-926f10044dd4/39d8773e-a4e7-456f-b68b-dabcfc0d2cf5/00000000-0000-0000-0000-00005c520f5d"
-      (reference "SW7") (unit 1) (value "~") (footprint "MX_Switch:SW_Cherry_MX_2.00u_PCB_Socket_ReversedStabilizers")
+      (reference "SW7") (unit 1) (value "~") (footprint "MX_Switch:SW_Cherry_MX_2.00u_PCB_Socket")
     )
     (path "/769dae23-5223-4917-97f1-926f10044dd4/39d8773e-a4e7-456f-b68b-dabcfc0d2cf5/21ac8e93-ff76-4720-966b-42dcd13d6562"
       (reference "SW8") (unit 1) (value "~") (footprint "MX_Switch:SW_Cherry_MX_1.50u_PCB_Socket")
