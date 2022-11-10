@@ -1,0 +1,8 @@
+plate_left:
+    black mask
+    confirm production file: yes
+    paper between pcbs: yes
+
+pcb_left:
+    Green mask (because solder mask slivers)
+    confirm production file: yes

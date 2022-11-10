@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9)*
-G04 #@! TF.CreationDate,2022-11-10T19:23:20+01:00*
+G04 #@! TF.CreationDate,2022-11-10T21:13:12+01:00*
 G04 #@! TF.ProjectId,arisu,61726973-752e-46b6-9963-61645f706362,1.1*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.9)) date 2022-11-10 19:23:20*
+G04 Created by KiCad (PCBNEW (6.0.9)) date 2022-11-10 21:13:12*
 %MOMM*%
 %LPD*%
 G01*
@@ -32,8 +32,8 @@ G04 Aperture macros list end*
 %ADD10RoundRect,0.294750X-0.456250X0.243750X-0.456250X-0.243750X0.456250X-0.243750X0.456250X0.243750X0*%
 G04 APERTURE END LIST*
 D10*
-X69000000Y-214062500D03*
-X69000000Y-215937500D03*
 X26289997Y-214062500D03*
 X26289997Y-215937500D03*
+X69000000Y-214062500D03*
+X69000000Y-215937500D03*
 M02*
