@@ -61,6 +61,7 @@
         }
       ],
       "drc_exclusions": [
+        "courtyards_overlap|23804741|98150001|15be0504-ba54-4560-a898-e11f6fc55a57|9ed46521-864f-442d-be6b-72a572b3888d",
         "diff_pair_gap_out_of_range|40314500|65028808|f05c209f-ab21-4b90-b128-6a3cb2892775|095c36d2-91ee-4320-a841-16a6388744f7"
       ],
       "meta": {
@@ -157,7 +158,10 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_to_pin|2006600|1371600|c941f608-1dd4-4f75-8644-bd5d0ff9f21e|cccca0ba-514f-4390-b11d-9de4016c2ae0",
+      "pin_to_pin|2006600|1371600|ecdd3e49-b5a8-479a-8b77-dc8a126e20b3|dcfc55a7-12fe-4e12-9bbd-79778a1a8b8a"
+    ],
     "meta": {
       "version": 0
     },
@@ -523,6 +527,10 @@
     [
       "42d6c6d1-7a10-4125-9792-80d4b9739e80",
       "Plate left"
+    ],
+    [
+      "ec48eafd-6dff-4fbb-8ea7-544b0bcee1c3",
+      "USB C port1"
     ]
   ],
   "text_variables": {}

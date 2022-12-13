@@ -1,0 +1,12 @@
+changed:
+replace micro USB with usb C on right side
+rotate rp2040
+add extra protection diode (both sides)
+trrs power circuit
+move run pin caps (only right)
+replace resistor footprints with actual resistor footprints
+
+todo:
+finish plate
+nuts
+
