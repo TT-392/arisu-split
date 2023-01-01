@@ -7,8 +7,11 @@ move run pin caps (only right)
 replace resistor footprints with actual resistor footprints
 nuts
 stabilizer holes remove
-
-todo:
+don't forget, board outline changed, therefore, fix & double check plate
+arisu logo
 finish plate
 change outline
+
+todo:
+slightly modify trrs footprint, or add a square on the solder mask layer, to fix the mask bridge near the trrs jack
 

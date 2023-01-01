@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [
@@ -62,10 +62,9 @@
       33,
       34,
       35,
-      36,
-      37
+      36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "03c9080_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
