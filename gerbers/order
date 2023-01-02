@@ -6,3 +6,12 @@ plate_left:
 pcb_left:
     Green mask (because solder mask slivers)
     confirm production file: yes
+
+pcb_right:
+    Green mask (because solder mask slivers)
+    confirm production file: yes
+
+plate_right:
+    black mask
+    confirm production file: yes
+    paper between pcbs is apparently no longer an option
